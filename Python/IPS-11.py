@@ -94,7 +94,7 @@ Sample Output 5:
 
 Invalid Entry
 '''
-#Code Author : Pranav Viswanathan
+#Code Author : Pranav Viswanathan.
 def coordinate_check(p1, p2, p3):
     p1Points = p1.split()
     p2Points = p2.split()
